@@ -7,7 +7,7 @@ A small set of documents that I have created for my clients, translated for the 
 
 2) Static analysis and Recovery: Deepening a little in the malware that caused the issue in the first place. We can actually see that is really big in obfuscation, using several neat tricks to avoid being detected by signature based AVs. 
 
->SHA-256: 2C0B2B50DBCCEE571EFAF534F7E0608B821FC8E79C495C77E11B3D210881C99C
+>SHA-256: 3975CE1921942A13063F5B468618FEDE9A259ED2DFE3006C0BCA7E32481214EF
 
 
 Note: Always check my .pdfs against the checksum provided, just in case you download a corrupted or evil version. 
