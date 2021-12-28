@@ -5,7 +5,7 @@ A small set of documents that I have created for my clients, translated for the 
 
 >SHA-256: BAF6DE91855184D3221681BDB1CFA5764781B99FEC1C4C886DB370886DC404E1
 
-2) Static analysis and Recovery: Deepening a little in the malware that caused the issue in the first place. We can actually see that is really big in obfuscation, using several neat tricks to avoid being detected by signature based AVs. 
+2) Static analysis and Recovery: Deepening a little in the malware that caused the issue in the first place. We can actually see that is really big in obfuscation, using several neat tricks to avoid being detected by signature based AVs. The client also requested real-time defense service to deter and avoid further attacks, and that is comprehensively studied in the next document. 
 
 >SHA-256: A3A96C3BF9E34F62A449C41F9BDEBFCE43FCCA3530B97896E439223C3D4F8231
 
