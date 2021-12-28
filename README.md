@@ -7,6 +7,7 @@ A small set of documents that I have created for my clients, translated for the 
 
 2) 
 
+>SHA-256: 2C0B2B50DBCCEE571EFAF534F7E0608B821FC8E79C495C77E11B3D210881C99C
 
 
 Note: Always check my .pdfs against the checksum provided, just in case you download a corrupted or evil version. 
