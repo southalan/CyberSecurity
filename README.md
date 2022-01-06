@@ -1,6 +1,6 @@
 # CyberSecurity
 
-                        ![imagen](https://user-images.githubusercontent.com/80550822/148453022-9eef9752-827a-4efa-96a9-72f9a99a632b.png)
+![imagen](https://user-images.githubusercontent.com/80550822/148453022-9eef9752-827a-4efa-96a9-72f9a99a632b.png)
 
 
 A small set of documents that I have created for my clients, translated for the original language (Spanish) to English so you can have a sample of what clients are requiring from cybersec analysts. I suggest reading them in order. 
