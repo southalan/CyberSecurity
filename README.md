@@ -13,7 +13,7 @@ A small set of documents that I have created for my clients, translated for the 
 
 >SHA-256: 3B9842C69B10761DAF091924F5E11808A88245437B5F853A1F2BD229AA31EA0E
 
-3) **Threat Analysis and Alert Management:** An all around defense for WordPress using zero cost plugins (WordFence) to avoid the ever increasing automated brute force attacks. Also a nice internal attempt at brute force from one ex-employee. 
+3) **Threat Analysis and Alert Management:** An all around defense for WordPress using zero cost plugins (WordFence) to avoid the ever increasing automated brute force attacks. Also an internal attempt at brute force from one ex-employee, failing miserably. 
 
 >SHA-256: 7A45D279ACD8948E057964A7AC37B49F97D6CE187DEAED8E43C97ABEA003B973
 
